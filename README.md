@@ -5,7 +5,6 @@ Basic template to make a kata using [TypeScript](https://www.typescriptlang.org/
 ### Getting started
 - Install dependencies : `npm install`
 - Run tests continuously : `npm run test`
-- Code coverage by tests : `npm run coverage`
 
 ### Requirement
 - [Node JS](https://nodejs.org/)
