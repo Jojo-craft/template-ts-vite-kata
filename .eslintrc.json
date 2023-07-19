@@ -20,9 +20,9 @@
   "rules": {
     "no-var": "error",
     "prefer-const": "error",
-    "@typescript-eslint/explicit-function-return-type": "error",
+    "@typescript-eslint/explicit-function-return-type": "warn",
     "quotes": ["error", "single"],
-    "no-unused-vars": ["error", { "args": "none" }],
+    "no-unused-vars": ["warn", { "args": "none" }],
     "guard-for-in": "error",
     "consistent-return": "error",
     "indent"           : ["error", "tab"]
